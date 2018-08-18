@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14580" started-at="2018-08-18T09:49:01Z" finished-at="2018-08-18T09:49:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14580" started-at="2018-08-18T09:49:01Z" finished-at="2018-08-18T09:49:16Z">
+      <class name="screenCapture.SCREENCAPTURE">
+        <test-method status="PASS" signature="display()[pri:0, instance:screenCapture.SCREENCAPTURE@2d45ba]" name="display" duration-ms="14495" started-at="2018-08-18T09:49:01Z" finished-at="2018-08-18T09:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- screenCapture.SCREENCAPTURE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
